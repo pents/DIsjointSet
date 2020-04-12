@@ -2,6 +2,13 @@
 
     <PropertyGroup>
         <TargetFramework>netstandard2.0</TargetFramework>
+        <Authors>Pent</Authors>
+        <PackageTags>disjointset union find unionfind</PackageTags>
+        <PackageVersion>1.0.6</PackageVersion>
+        <PackageId>Pents.DisjointSet</PackageId>
+        <Title>Pents.DisjointSet</Title>
+        <Description>My implementation of union find datastructure</Description>
+        <PackageLicenseUrl>https://choosealicense.com/licenses/mit/</PackageLicenseUrl>
     </PropertyGroup>
 
 </Project>
